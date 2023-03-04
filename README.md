@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/70295997/216798842-ec6c33fa-11e8-4124-bf76-69e230576506.png" width=40> Android skins are custom user interfaces and experiences provided by manufacturers for their Android devices. 
+## <img src="https://user-images.githubusercontent.com/70295997/216798842-ec6c33fa-11e8-4124-bf76-69e230576506.png" width=40> [Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/) are custom user interfaces and experiences provided by manufacturers for their Android devices. 
 
 They change the look and feel of the device's user interface, including the home screen, app drawer, settings menu, and other elements. Skins are used in Android to differentiate the device from others, and to offer a unique user experience.
 
