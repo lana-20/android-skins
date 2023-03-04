@@ -12,7 +12,7 @@ They change the look and feel of the device's user interface, including the home
 
 4. _Brand Differentiation_: Skins allow manufacturers to differentiate their devices from others, and to promote their brand. Each skin provides a unique look and feel, which can be a selling point for the device.
 
-<img src="https://user-images.githubusercontent.com/70295997/216798947-0e27bc96-dfee-40fd-b3e2-6ab2bb5544fb.png" width=40> In summary, skins are an important part of the Android ecosystem, as they allow manufacturers to differentiate their devices, enhance the user experience, and offer a unique look and feel for their customers.
+<img src="https://user-images.githubusercontent.com/70295997/216798947-0e27bc96-dfee-40fd-b3e2-6ab2bb5544fb.png" width=40> In summary, skins are an important part of the [Android ecosystem](https://github.com/lana-20/android_architecture), as they allow manufacturers to differentiate their devices, enhance the user experience, and offer a unique look and feel for their customers.
 
 Here is a comparison table of popular Android skins, along with examples of devices that use them:
 
