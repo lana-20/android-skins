@@ -33,5 +33,8 @@ These are just a few examples of the many skins available for Android devices. E
 
 In summary, OneUI is the latest and more refined version of Samsung's custom skin, offering a more streamlined user experience and a greater focus on usability, compared to the older TouchWiz skin.
 
+To use a Galaxy Emulator Skin, follow the [Samsung developer guide](https://developer.samsung.com/galaxy-emulator-skin/guide.html).
+
+<img width="600" src="https://user-images.githubusercontent.com/70295997/222869825-3d0ecae8-004d-46b2-b8c9-82b6a5026000.png">
 
 
