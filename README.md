@@ -35,6 +35,8 @@ In summary, OneUI is the latest and more refined version of Samsung's custom ski
 
 To use a Galaxy Emulator Skin, follow the [Samsung developer guide](https://developer.samsung.com/galaxy-emulator-skin/guide.html).
 
+The guide recommends downloading and extracting the Emulator Skin, and moving it to file location *Android Studio > plugins > android > lib > device-art-resources* on a Windows machine. On a Mac, I use the following location *User > username > Library > Android > SDK > skins*.
+
 <img width="600" src="https://user-images.githubusercontent.com/70295997/222869825-3d0ecae8-004d-46b2-b8c9-82b6a5026000.png">
 
 
